@@ -1,0 +1,10 @@
+center_x = 224.406
+center_y = 212.481
+center_z = 236.870
+
+size_x = 30
+size_y = 30
+size_z = 30
+
+energy_range = 4
+exhaustiveness = 8
